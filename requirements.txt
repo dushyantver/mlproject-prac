@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+
+-e . ## This will automatically trigger setup.pt and create package
