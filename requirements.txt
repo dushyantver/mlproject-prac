@@ -1,5 +1,12 @@
 pandas
 numpy
 seaborn
+matplotlib
+ipykernel
+scikit-learn
+catboost
+xgboost
 
--e . ## This will automatically trigger setup.pt and create package
+
+
+#-e . ## This will automatically trigger setup.pt and create package
