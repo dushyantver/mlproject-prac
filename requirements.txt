@@ -6,7 +6,7 @@ ipykernel
 scikit-learn
 catboost
 xgboost
-
+dill
 
 
 #-e . ## This will automatically trigger setup.pt and create package
