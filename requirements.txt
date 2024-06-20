@@ -7,6 +7,7 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 
 
 #-e . ## This will automatically trigger setup.pt and create package
